@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CPT185HOMEWORK
 {
-    public partial class Form1 : Form
+    public partial class Chapter2 : Form
     {
-        public Form1()
+        public Chapter2()
         {
             InitializeComponent();
         }
